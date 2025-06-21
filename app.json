@@ -35,7 +35,7 @@
 
         "MONGO_SRV": {
             "description": "Mongo SRV from mongo db.",
-            "value": ""
+            "value": "mongodb+srv://renamebot:amrenamebot@cluster0.5ornz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
         },
 
         "MAIN_CHANNEL": {
